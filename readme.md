@@ -2,7 +2,7 @@
 
 This repository contains code for the paper _"Unleashing the Potential of Large Language Models through Spectral Modulation"_ by Peng Sun and Yao Zhu [EMNLP 2024](https://aclanthology.org/2024.findings-emnlp.224.pdf). 
 
-![image-20241113213356986](C:\Users\yiwo\AppData\Roaming\Typora\typora-user-images\image-20241113213356986.png)
+![image-20241113213356986](Figs/1.png)
 
 We welcome issues and pull requests!
 
