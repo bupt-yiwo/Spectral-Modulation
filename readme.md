@@ -79,9 +79,9 @@ We take the running of the Vicuna-7B-V1.5 model on the Fever dataset as an examp
 
 ```python
 python vicuna_fever.py \
-	--intervention do_low_pass \
+    --intervention do_low_pass \
     --threshold 64 \
-	--rate 0.95 \
+    --rate 0.95 \
     --lnum 30 \
     --lname k_proj \
     --model_path "lmsys/vicuna-7b-v1.5" \
