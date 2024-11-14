@@ -106,7 +106,7 @@ Here, threshold is the protection threshold, rate is the reduction factor, lnum 
 
 ## Citation
 
-If you find this codebase useful, then please cite the following paper. Additionally, feel free to send a PR or an email and we will cite your result/paper on the leaderboard.
+If you find this codebase useful, then please cite the following paper.
 
 ```bash
 @inproceedings{sun-etal-2024-unleashing,
